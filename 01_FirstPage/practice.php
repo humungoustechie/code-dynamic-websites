@@ -5,5 +5,6 @@
 	</head>
 	<body>
 		<?php print('Hello friends!'); ?>
+		<?php echo 'Echo Hello friends!'; ?>
 	</body>
 </html>
